@@ -1,4 +1,4 @@
-# JAVA_JPA_Project
+# R_Project
 
 ### 2025-06-12 ~ 2025-06-19
 
